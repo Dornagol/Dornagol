@@ -1,23 +1,20 @@
-<img width="1790" alt="Make your README(1)" src="https://github.com/user-attachments/assets/9c12e371-0f98-4127-8ebc-d6cadd7a2cdf">
-# About Me
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/Dornagol/count.svg" />
-</p>
-
-<!--
+# 💫 About Me:
+<img width="1790" alt="Make your README(1)" src="https://github.com/user-attachments/assets/9c12e371-0f98-4127-8ebc-d6cadd7a2cdf"><br>
+<br>Hi there! I'm a passionate student at 42, currently diving deep into the world of software development.<br><br>My primary focus is on Rails 💎, where I enjoy building web applications.<br><br>Additionally, I'm learning into the exciting realm of blockchain technology, specializing in smart contracts using Solidity.
 
 
-**Dornagol/Dornagol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌐 Socials:
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/Dornagol) 
 
-Here are some ideas to get you started:
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=flat-square&logo=ruby&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=flat-square&logo=gnu-bash&logoColor=white) ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=flat-square&logo=ruby-on-rails&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
+<!--# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Dornagol&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Dornagol&theme=tokyonight&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dornagol&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+---
 -->
+[![](https://visitcount.itsvg.in/api?id=Dornagol&icon=4&color=6)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
