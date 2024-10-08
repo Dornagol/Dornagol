@@ -1,5 +1,5 @@
 <img width="1790" alt="Make your README(1)" src="https://github.com/user-attachments/assets/9c12e371-0f98-4127-8ebc-d6cadd7a2cdf">
-## Hi there 👋
+# About Me
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/Dornagol/count.svg" />
