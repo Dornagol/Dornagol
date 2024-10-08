@@ -1,4 +1,4 @@
-![hfeufeu](https://github.com/user-attachments/assets/3f108c77-ae58-4712-a896-4945cb2f6f09)
+![github-header-image](https://github.com/user-attachments/assets/a7b491e9-0af2-49fa-8058-425b4e506597)
 ## Hi there 👋
 
 <!--
