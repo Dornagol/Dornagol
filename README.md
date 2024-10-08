@@ -1,5 +1,6 @@
-![github-header-image](https://github.com/user-attachments/assets/a7b491e9-0af2-49fa-8058-425b4e506597)
+<img width="1834" alt="Make your README" src="https://github.com/user-attachments/assets/b6cffb3d-01ee-45b2-bdbb-3049be466b54">
 ## Hi there 👋
+
 
 <!--
 
