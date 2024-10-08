@@ -1,4 +1,4 @@
-<img width="1000" alt="Make your README" src="https://github.com/user-attachments/assets/b6cffb3d-01ee-45b2-bdbb-3049be466b54">
+<img width="1790" alt="Make your README(1)" src="https://github.com/user-attachments/assets/9c12e371-0f98-4127-8ebc-d6cadd7a2cdf">
 ## Hi there 👋
 <p align="center"> 
   Visitor count<br>
@@ -6,6 +6,7 @@
 </p>
 
 <!--
+
 
 **Dornagol/Dornagol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
