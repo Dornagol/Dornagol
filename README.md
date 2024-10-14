@@ -1,5 +1,9 @@
 # 💫 About Me:
-<img width="1790" alt="Make your README(1)" src="https://github.com/user-attachments/assets/9c12e371-0f98-4127-8ebc-d6cadd7a2cdf"><br>
+<picture decoding="async" loading="lazy">
+  <source media="(prefers-color-scheme: light)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=Dornagol&theme=summer">
+  <source media="(prefers-color-scheme: dark)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=Dornagol&screen_effect=true&theme=summer">
+  <img alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=tonio-chopy&theme=summer">
+</picture>
 <br>Hi there! I'm a passionate student at 42, currently diving deep into the world of software development.<br><br>My primary focus is on Rails 💎, where I enjoy building web applications.<br><br>Additionally, I'm learning into the exciting realm of blockchain technology, specializing in smart contracts using Solidity.
 
 
