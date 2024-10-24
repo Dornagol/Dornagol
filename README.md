@@ -1,4 +1,9 @@
 # 💫 About Me:
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,solidity,linux,arch,ruby,c,neovim,html,css" />
+  </a>
+</p>
 <br>Hi there! I'm a passionate student at 42, currently diving deep into the world of software development.<br><br>My primary focus is on Rails 💎, where I enjoy building web applications.<br><br>Additionally, I'm learning into the exciting realm of blockchain technology, specializing in smart contracts using Solidity.
 
 
