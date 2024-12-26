@@ -8,7 +8,7 @@ I'm a passionate software developer at 42, crafting web applications and explori
 - 🎯 System programming in C
 - 🐧 Linux environment (Arch) enthusiast
 
-![Dornagol's Stats](https://github-readme-stats.vercel.app/api?username=Dornagol&theme=dark&show_icons=true&hide_border=true&count_private=false)
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Dornagol&theme=dark&show_icons=true&hide_border=true&count_private=false" />
 
 ### 🛠️ Tech Stack
 <p align="center">
