@@ -8,9 +8,6 @@ I'm a passionate software developer at 42, crafting web applications and explori
 - 🎯 System programming in C
 - 🐧 Linux environment (Arch) enthusiast
 
-### 🔗 Portfolio & Projects
-Check out my work at [dornagol.github.io/MyPortfolio](https://dornagol.github.io/MyPortfolio/)
-
 ### 🛠️ Tech Stack
 <p align="center">
   <a href="https://skillicons.dev">
