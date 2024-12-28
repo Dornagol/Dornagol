@@ -25,5 +25,3 @@ I'm a passionate software developer at 42, crafting web applications and explori
 
 ### 🌐 Connect With Me
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Dornagol)
-
-[![Profile Views](https://visitcount.itsvg.in/api?id=Dornagol&icon=4&color=6)](https://visitcount.itsvg.in)
