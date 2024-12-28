@@ -8,7 +8,9 @@ I'm a passionate software developer at 42, crafting web applications and explori
 - 🎯 System programming in C
 - 🐧 Linux environment (Arch) enthusiast
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Dornagol&theme=dark&show_icons=true&hide_border=true&count_private=false" />
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Dornagol&theme=dark&show_icons=true&hide_border=true&count_private=false" />
+</div>
 
 ### 🛠️ Tech Stack
 <p align="center">
@@ -17,7 +19,9 @@ I'm a passionate software developer at 42, crafting web applications and explori
   </a>
 </p>
 
-![Dornagol's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dornagol&theme=dark&show_icons=true&hide_border=true&layout=compact)
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dornagol&theme=dark&show_icons=true&hide_border=true&layout=compact">
+</div>
 
 ### 🌐 Connect With Me
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Dornagol)
