@@ -12,7 +12,6 @@ I'm a passionate software developer at 42, crafting web applications and explori
 <img src="https://github-readme-stats.vercel.app/api?username=Dornagol&theme=dark&show_icons=true&hide_border=true&count_private=false" />
 </div>
 
-### 🛠️ Tech Stack
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,solidity,linux,arch,ruby,c,neovim,html,css" />
