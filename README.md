@@ -3,9 +3,9 @@
 
 I'm a passionate software developer at 42, crafting web applications and exploring blockchain technology. Currently focusing on:
 
-- 💎 Building web applications with Ruby on Rails
 - ⛓️ Smart contract development with Solidity
-- 🎯 System programming in C
+- 🦀 Currently learning Rust for blockchain development!
+- 🎯 Currently learning system programming in C
 - 🐧 Linux environment (Arch) enthusiast
 
 <div align="center">
