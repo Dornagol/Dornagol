@@ -9,7 +9,7 @@ I'm a passionate software developer at 42, crafting web applications and explori
 - 🐧 Linux environment (Arch) enthusiast
 
 <div align="center">
-<img src="https://badge.mediaplus.ma/black/hfeufeu" />
+<img src="https://badge.mediaplus.ma/darkblue/hfeufeu?1337Badge=off&UM6P=off" />
 </div>
 
 <p align="center">
