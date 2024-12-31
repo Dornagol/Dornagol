@@ -9,7 +9,7 @@ I'm a passionate software developer at 42, crafting web applications and explori
 - 🐧 Linux environment (Arch) enthusiast
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Dornagol&theme=dark&show_icons=true&hide_border=true&count_private=false" />
+<img src="https://badge.mediaplus.ma/black/hfeufeu" />
 </div>
 
 <p align="center">
