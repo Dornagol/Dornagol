@@ -17,9 +17,6 @@ I'm a passionate student at 42, crafting web applications and exploring blockcha
   </a>
 </p>
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dornagol&theme=dark&show_icons=true&hide_border=true&layout=compact">
-</div>
 
 ### 🌐 Connect With Me
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Dornagol)
