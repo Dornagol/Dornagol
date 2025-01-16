@@ -3,9 +3,9 @@
 
 I'm a passionate student at 42, crafting web applications and exploring blockchain technology. I am deeply passionate about entrepreneurship and currently focusing on:
 
-⛓️ Smart contract development with Solidity
-🎯 System programming in C
-🐧 Linux environment (Arch) enthusiast
+- ⛓️ Smart contract development with Solidity
+- 🎯 System programming in C
+- 🐧 Linux environment (Arch) enthusiast
 
 <div align="center">
 <img src="https://badge.mediaplus.ma/darkblue/hfeufeu?1337Badge=off&UM6P=off" />
