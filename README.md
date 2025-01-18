@@ -13,7 +13,7 @@ I'm a passionate student at 42, crafting web applications and exploring blockcha
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,solidity,linux,arch,ruby,c,neovim,html,css" />
+    <img src="https://skillicons.dev/icons?i=git,solidity,linux,arch,c" />
   </a>
 </p>
 
