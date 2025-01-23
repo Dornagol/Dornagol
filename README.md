@@ -7,10 +7,6 @@ I'm a passionate student at 42, crafting web applications and exploring blockcha
 - 🦀 Learning Rust for blockchain, data and many other
 - 🐧 Linux environment (Arch) enthusiast
 
-<div align="center">
-<img src="https://badge.mediaplus.ma/darkblue/hfeufeu?1337Badge=off&UM6P=off" />
-</div>
-
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,solidity,c,linux" />
