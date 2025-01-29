@@ -12,7 +12,3 @@ I'm a passionate student at 42, crafting and exploring blockchain technology. I 
     <img src="https://skillicons.dev/icons?i=py,solidity,c,linux" />
   </a>
 </p>
-
-
-### 🌐 Connect With Me
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Dornagol)
