@@ -9,6 +9,6 @@ I'm a passionate student at 42, crafting and exploring blockchain technology. I 
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,solidity,c,linux" />
+    <img src="https://skillicons.dev/icons?i=solidity,rust,c,linux" />
   </a>
 </p>
